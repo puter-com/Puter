@@ -2,7 +2,7 @@ Computers, abbreviated.
 
 ## Questions and Answers 
 
-### What is an API? 
+<details><summary>What is an API?</summary>
 
 * An API is a useful way for computer programs to ask things from other computer programs.
 * Illustrating 
@@ -23,6 +23,8 @@ Computers, abbreviated.
     * When you tell your bank app to transfer money to a friend, the banks app is sending an API request to the Bank server telling it that you want to move money to your friend's bank account. The bank will, then, send a separate API request to your friends bank (or a central authority) telling them that you moved money to your friends account. The APIs will respond with the status of those operations and potentially more detail.
     * When you play a 3D game in your Phone, the game app will like be calling a system API to access the 3D potential of the graphics processor of the phone. On  
 * Definition: `API` means `Application Programming Interface`. An API is an interface between two software programs which facilitates interactions between them.
+
+</details>
 
 
 ### What is a Software Library?
