@@ -4,10 +4,7 @@ Computers. Abbreviated.
 
 <details><summary>What is an API?</summary>
 
-### What is an API 
-```
 An API is a useful way for computer programs to ask things from other computer programs.
-```
 
 > Let's say you call a pizzeria to order a margheritta. The service that consists of "a number" where you "place your order" and that results in a "it'll be there in 45 min" is your pizza "API". Because its a human conversation, the request can be different if 2 different people call, but it will always have to involve the same convention: the pizzeria staff needs to know your name, address, pizza preference, and with they'll be able to tell you an estimated delivery time.
 
