@@ -2,9 +2,7 @@ Computers. Abbreviated.
 
 ## Questions and Answers 
 
-<details><summary>What is an API?</summary>  
-
-
+### What is an API?
 
 An API is a useful way for computer programs to ask things from other computer programs.
 
