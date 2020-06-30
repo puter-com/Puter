@@ -1,6 +1,6 @@
 ### What is an API?
 
-An API is a useful way for computer programs to ask things from other computer programs.
+An API is a useful way for computer programs to _ask things_ from other computer programs, by sending them requests.
 
 `API` means `Application Programming Interface`. 
 
