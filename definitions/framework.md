@@ -1,12 +1,12 @@
 ### What is a Software Framework?
 
-A Software Framework is a _strong set of rules and conventions enforced by a base software_ to help creating new software. 
+A Software Framework is a model you can follow to create programs, by using and extending the model's structures and actions as a foundation for your program.
 
-> Let's say you are cooking meals using a kitchen robot. The kitchen robot has different operations to "weight", "slice", "mix" and "cook", as well as operations for "starting", "pausing", "opening" and "closing" the main container. Each operation has a set of parameters: when "slicing" you may specify the speed and type of cut, while in "cooking" you may specify the speed and temperature. You can say that this kitchen robot offers a _framework_ with which any meal creator can configure meals. This meal creators can combine, step-by-step, each operation and several ingredients to achieve a meal. While the kitchen robot restricts the operations and parameters to the ones it offers, and even forces a certain sequence of steps (you can only cook after the lid is closed), it streamlines recipe creation.
+> Let's say you are cooking meals using a kitchen robot. The kitchen robot has different operations to "weight", "slice", "mix" and "cook", as well as operations for "starting", "pausing", "opening" and "closing" the main container. Each operation has a set of parameters: when "slicing" you may specify the speed and type of cut, while in "cooking" you may specify the speed and temperature. You can say that this kitchen robot offers a _framework_ with which any meal creator can configure meals. These meal creators can combine, step-by-step, each operation and several ingredients to achieve a meal. The kitchen robot restricts the operations and parameters to the ones it offers, and even forces a certain sequence of steps — you can only cook after the lid is closed. However, those guardails help recipe creation and avoid prevent ruined meals.
 
 ### What makes a Framework
 
-* A Software framework facilitates creating software by providing a structure and action-flow of a program that program creators can configure to achieve their goals.
+* A software framework facilitates creating other software by providing a predefined structure and actions that program creators can configure to achieve their goals.
 * More than just example code, a software framework dicatates the program flow, that is, the framework forces some actions to be executed automatically after the program executes some other actions. While it limits what can be done, it also gives the user a proven method to achieve basic needs and freeing the user to customize other parts of the program.
 * A software framework includes one or several of the following:
     * libraries

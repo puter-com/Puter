@@ -1,6 +1,6 @@
 ### What is an API?
 
-An API is a useful way for computer programs to _ask things_ from other computer programs, by sending them requests.
+An API is a way for computer programs to receive and answer requests from other computer programs.
 
 `API` means `Application Programming Interface`. 
 
@@ -15,12 +15,12 @@ An API is a useful way for computer programs to _ask things_ from other computer
     * the `request` involves:
         * a particular `target` (which is formally called an `endpoint` in web APIs): where are you placing the request or who are requesting this from. It can be a web address (an URL). The `target` or `endpoint` is the entity responsible for processing the `request`, doing anything that's asked, and then responding.
         * the `content` of your message: this is a particular `schema` (a layout of the information), the actual `data` and a `format`.
-    * the `response` involves the `content` too.
+    * the `response` involves the `content` too, though sometimes APIs respond with just an "OK".
 
 ### Common Types of APIs
 
 * Web APIs. These are the APIs that let your web-platform or application access the functionality of provided by a another computer program accross the internet. The payment APIs of Paypal are Web APIs.
-* Operative System APIs: operative systems like Windows and iOS provide APIs that let application creators execute common functions easily. Send alerts to the user, get a web page to display inside your application or doing complex mathematical computations - all of those things can be provided by Operative Systems APIs.
+* Operative System APIs: operating systems like Windows and iOS provide APIs that let application creators execute common functions easily. Send alerts to the user, get a web page to display inside your application or doing complex mathematical computations - all of those things can be provided by Pperating Systems APIs.
 
 ### Examples of APIs
 * When you login in into your online bank account, the bank website logs you in by asking a central bank API to check if the username and password you provided are ok. The API returns something like "OK" or "Not OK", and it frequently also returns some basic info on your account11.
