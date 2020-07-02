@@ -1,6 +1,6 @@
 ### What is an SDK?
 
-An SDK is a complete group of tools that help you create computer programs.
+An SDK is a group of tools that help you create computer programs.
 
 `SDK` means `Sofware Development Kit`. 
 
@@ -8,19 +8,21 @@ An SDK is a complete group of tools that help you create computer programs.
 
 ### What makes an SDK
 
-* An SDK includes some or all of the tools:
+* An SDK includes some or all of the following tools:
     * libraries
     * APIs
-    * one or several Frameworks
+    * Frameworks
     * core tools like a compiler (that makes a software code executable)
     * other technical tools and programs to aid software development (bug finding, memory management, etc)
     * examples in code and guides
-    * they can support multiple coding languages
+* SDKs can support multiple alternative or complimentary coding languages.
 
 ### Common Types of SDKs
 
-* Device development. These are the SDKs for developing for an iPhone, Android, mac etc.
-* Service development. XXX
+These are some anecdotal types of SDKs
+* SDKs for native app development. These are the SDKs for developing for an iPhone, Android, mac etc.
+* SDKs for web services development. XXX
 
-### Examples of APIs
+### Examples of SDKs
+
 * xxx
