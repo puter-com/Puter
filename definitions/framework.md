@@ -8,7 +8,8 @@ A Software Framework is a model you can follow to create programs, by using and 
 
 * A software framework facilitates creating other software by providing a predefined structure and actions that program creators can configure to achieve their goals.
 * More than just example code, a software framework dicatates the program flow, that is, the framework forces some actions to be executed automatically after the program executes some other actions. While it limits what can be done, it also gives the user a proven method to achieve basic needs and freeing the user to customize other parts of the program.
-* A software framework includes one or several of the following:
+* A software framework includes several of the following:
+    * structures and conventions that you'll use on your program.
     * libraries
     * APIs
     * pre-written code and programs
