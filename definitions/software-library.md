@@ -2,14 +2,14 @@
 
 A Software Library is a useful way for computer programs to _execute common tasks_ that other computer programs also execute.
 
-> Let's say you are baking a batch of scones. The recipe for scones refers others recipes, one for the dough and another to make strawberry jam. Those base recipes for dough and jam can be put together in a library of recipes. That library is similar to a software library, in that it offers recipe creators a shortcut to proven instructions for standard parts of their meals.
+> Let's say you are baking a batch of scones. The recipe for scones refers other recipes, one for the dough and another to make strawberry jam. Those base recipes for dough and jam can be put together in a library of recipes. That library is similar to a software library, in that it offers recipe creators a shortcut to proven instructions for standard parts of their meals.
 
 ### What makes a Software Library
 
 * A Software library offers a collection of permanent resources that computer programs can access to do common tasks. It's a convenient way of reusing code that others developed.
 * A software library typically includes one or several of the following:
     * pre-written code
-    * templates for messages and classes
+    * templates for messages and classes (classes are an aggregator structure for similar objects)
     * documentation
     * configurations 
     * example data
